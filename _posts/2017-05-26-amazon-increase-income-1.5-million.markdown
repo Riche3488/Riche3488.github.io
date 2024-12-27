@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Amazon increase income 1.5 Million
+title:  test
 date:   2024-12-27 13:48:00 +0300
 image:  /assets/images/blog/post-2.jpg
 author: uixgeek
